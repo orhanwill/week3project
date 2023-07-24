@@ -1,0 +1,110 @@
+<mxfile host="app.diagrams.net" modified="2023-07-23T19:05:42.955Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0" etag="rFnmqDbPyD0HFkj12Hqs" version="21.6.5" type="device">
+  <diagram name="Page-1" id="o37-ouUlUktZmACFw2VS">
+    <mxGraphModel dx="840" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yoGSxvYXmqT5_oQUQnS2-2" target="yoGSxvYXmqT5_oQUQnS2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yoGSxvYXmqT5_oQUQnS2-3" target="yoGSxvYXmqT5_oQUQnS2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Input Customer Detail.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="100" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yoGSxvYXmqT5_oQUQnS2-5" target="yoGSxvYXmqT5_oQUQnS2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Login to account&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="330" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yoGSxvYXmqT5_oQUQnS2-6" target="yoGSxvYXmqT5_oQUQnS2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yoGSxvYXmqT5_oQUQnS2-6" target="yoGSxvYXmqT5_oQUQnS2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Validate Customer Details.&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="190" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yoGSxvYXmqT5_oQUQnS2-7" target="yoGSxvYXmqT5_oQUQnS2-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Signup as new member&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="215" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yoGSxvYXmqT5_oQUQnS2-8" target="yoGSxvYXmqT5_oQUQnS2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Browse Product.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="420" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yoGSxvYXmqT5_oQUQnS2-9" target="yoGSxvYXmqT5_oQUQnS2-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Select Shop product.&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="520" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yoGSxvYXmqT5_oQUQnS2-10" target="yoGSxvYXmqT5_oQUQnS2-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Add the product to cart&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="610" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yoGSxvYXmqT5_oQUQnS2-11" target="yoGSxvYXmqT5_oQUQnS2-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Product Not Available ,Shop Again.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="655" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;View Cart&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yoGSxvYXmqT5_oQUQnS2-13" target="yoGSxvYXmqT5_oQUQnS2-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="960" />
+              <mxPoint x="490" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Apply Discount if available.&amp;nbsp;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="890" width="245" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Checkout&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1075" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Payment Method&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1195" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Add details&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1290" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Validate details&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1390" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Payment Failed&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1410" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Order Confirmed&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1520" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yoGSxvYXmqT5_oQUQnS2-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;END&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1620" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
